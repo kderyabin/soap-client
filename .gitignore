@@ -1,0 +1,11 @@
+#Emacs
+*~
+\#*\#
+
+#Project
+composer.lock
+coverage
+bin/*
+nbproject
+.idea
+vendor
